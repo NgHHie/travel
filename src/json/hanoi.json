@@ -2,63 +2,163 @@
   "hanoi": {
     "destination": "Hà Nội",
     "image": "/travel/assets/hanoi.jpg",
-    "content": "Founded over 1000 years ago, Vietnam’s capital city is rich in history, with the streets of its rambling Old Quarter dating back to the 14th century. Wandering these tree-lined lanes past crumbling colonial facades will transport you back in time. However, today's Hanoi is about much more than the past. The ancient city is being invigorated with modern cafes, world-class restaurants, and cool art galleries. When the sun goes down, you have your pick of watering holes, from sophisticated rooftop bars to buzzing bia hơi. If you're traveling to Hanoi for the first time, these are experiences you must try at least once in your life. From ancient temples to buzzing markets, Hanoi's got it all. It's basically the cultural heartbeat of Vietnam. ",
+    "content": "Founded over 1000 years ago, Vietnam’s capital city is rich in history, with the streets of its rambling Old Quarter dating back to the 14th century. Wandering these tree-lined lanes past crumbling colonial facades will transport you back in time. However, today's Ha Noi is about much more than the past. The ancient city is being invigorated with modern cafes, world-class restaurants, and cool art galleries. When the sun goes down, you have your pick of watering holes, from sophisticated rooftop bars to buzzing bia hơi. If you're traveling to Ha Noi for the first time, these are experiences you must try at least once in your life. From ancient temples to buzzing markets, Ha Noi's got it all. It's basically the cultural heartbeat of Vietnam. ",
     "topthings": {
-      "title": "Top things to do in Hanoi",
+      "title": "Top things to do in Ha Noi",
       "details": [
         {
-          "name": "Hanoi Old Quarter",
-          "content": "The Old Quarter is the heart of Hanoi. This is where you'll find the city's most famous street, Hang Gai, which is lined with boutiques selling silk clothing, lacquerware, and other souvenirs. The Old Quarter is also home to some of the city's best street food, with vendors selling everything from pho to banh mi. The Old Quarter is a great place to explore on foot, with narrow streets lined with old buildings and temples. You can also take a cyclo ride through the Old Quarter, which is a fun way to see the sights."
+          "name": "Sample the street food",
+          "content": "For an authentic taste of Ha Noi, look to the street kitchens of the Old Quarter. Steaming pots of its star anise-infused Phở broth simmer on every corner; while every day, the scent of bún chả fills the air as barbecued pork sizzles over hot coals."
         },
         {
-          "name": "Hoan Kiem Lake",
-          "content": "Hoan Kiem Lake is a beautiful lake in the center of Hanoi. The lake is surrounded by parks and gardens, making it a great place to relax and enjoy the scenery. The lake is also home to the Ngoc Son Temple, which is located on a small island in the middle of the lake. The temple is dedicated to the 14th-century military leader Tran Hung Dao, who defeated the Mongols. The lake is a popular spot for locals and tourists alike, with many people coming here to take a leisurely stroll or enjoy a picnic by the water."
+          "name": "Stroll the Old Quarter",
+          "content": "Ha Noi’s Old Quarter serves up a sensory overload. Wisps of incense drift out onto streets from ancient temples, while the clang of blacksmiths’ hammers mingles with mobile fruit sellers’ call. Jump in a cyclo and tour this intoxicating maze."
         },
         {
-          "name": "Temple of Literature",
-          "content": "The Temple of Literature is a beautiful temple in Hanoi that was built in 1070. The temple is dedicated to Confucius and is one of the oldest universities in Vietnam. The temple is a great place to learn about Vietnamese history and culture, with many ancient artifacts on display. The temple is also home to the Imperial Academy, which was Vietnam's first national university. The temple is a popular spot for tourists, with many people coming here to take photos and learn about the history of Vietnam."
+          "name": "Explore Ha Noi's cafe culture",
+          "content": "Fast-paced on the surface, the true rhythm of Ha Noi life is far from hurried and is reflected well in its leisurely coffee hours. Alongside traditional coffee houses, an ever-growing band of unique cafes serve new brews in cool caffeine dens."
         },
         {
-          "name": "Hoa Lo Prison",
-          "content": "Hoa Lo Prison is a historic prison in Hanoi that was used by the French colonial government to imprison political prisoners. The prison is now a museum that tells the story of the Vietnamese struggle for independence. The museum is a sobering reminder of the hardships faced by the Vietnamese people during the colonial period. The museum is a popular spot for tourists, with many people coming here to learn about the history of Vietnam"
+          "name": "Join the locals at Hoan Kiem Lake",
+          "content": "Hoan Kiem Lake rests in the heart of Ha Noi. Every morning it comes alive with walkers, aerobics classes, and even a laughing yoga group; and bursts back into activity at sunset, thronged with locals taking in the evening air."
         }
       ]
     },
     "weather": {
-      "title": "Hanoi Weather",
-      "content": "Hanoi has a humid subtropical climate, with hot, humid summers and cool, dry winters. The city experiences four distinct seasons, with a hot and rainy summer from May to September, a cool and dry autumn from October to December, a cold and damp winter from January to March, and a hot and humid spring from April to May. The best time to visit Hanoi is during the autumn months of September to November, when the weather is cool and dry, and the city is at its most beautiful. The winter months of December to February can be cold and damp, while the summer months of May to September can be hot and rainy. The spring months of March to April can be hot and humid, with occasional rain showers."
+      "title": "Ha Noi Weather",
+      "content": "Ha Noi is most inviting from April to June, but the capital is particularly beautiful in May when trees suddenly come into bloom. September and October are also excellent months to visit as temperatures cool and the sky clears."
     },
     "transport": {
-      "title": "Getting around Hanoi",
-      "content": "Hanoi is a large city with a population of over 7 million people, so getting around can be a challenge. The city has a good public transportation system, with buses, taxis, and motorbikes available for hire. The city also has a number of bicycle rental shops, which are a great way to explore the city. If you're looking for a more traditional way to get around, you can take a cyclo ride, which is a type of bicycle taxi that is popular in Vietnam. The city also has a number of pedestrian-only streets, which are a great place to explore on foot. If you're looking to get out of the city, you can take a day trip to the nearby countryside, where you can explore the beautiful countryside and visit traditional villages."
+      "title": "Ha Noi Transport",
+      "content": "Vietnam’s capital is served by Noi Bai international airport, 45km from the city centre. The Reunification Express line has trains to many major destinations including Lao Cai (Sapa) and Dong Hoi (Phong Nha.) There are many options for getting around Ha Noi, including taxis, buses, and motorbikes. Grab, and a few other ride-hailing apps offer on-demand services for getting around. Ha Noi’s bus network has an extensive network around the city and low-cost fare. Finally, the classic cyclo can be hired to take you around the Old Quarter on a sightseeing tour."
     },
     "also": {
       "title": "You may also like",
       "details": [
         {
           "id": "11-must-see-attractions-in-hanoi",
-          "title": "11 Must-See Attractions in Hanoi",
-          "image": "hanoi.jpg"
+          "title": "11 Must-See Attractions in Ha Noi",
+          "image": "/travel/assets/atractions.jpg"
         },
         {
-          "id": "11-must-see-attractions-in-hanoi",
-          "title": "11 Must-See Attractions in Hanoi",
-          "image": "hanoi.jpg"
+          "id": "3-walking-tours-of-hanoi",
+          "title": "11 Must-See Attractions in Ha Noi",
+          "image": "/travel/assets/walking-tours.jpg"
         },
         {
-          "id": "11-must-see-attractions-in-hanoi",
-          "title": "11 Must-See Attractions in Hanoi",
-          "image": "hanoi.jpg"
+          "id": "the-perfect-weekend-in-hanoi",
+          "title": "11 Must-See Attractions in Ha Noi",
+          "image": "/travel/assets/weekend-in-hanoi.jpg"
         }
       ]
     }
   },
-  "hoian": {
-    "destination": "Hội An",
-    "content": "Hội An là một thành phố cổ xưa của Việt Nam, nổi tiếng với những ngôi nhà cổ và những món ăn đặc sản."
+  "danang": {
+    "destination": "Đà Nẵng",
+    "content": "With broad beaches, fantastic street food, the fabled Hai Van Pass, and a growing collection of cafes, restaurants, and bars, it’s no wonder the residents of Da Nang sport some of the broadest smiles in the country. The warm sands of My Khe Beach sweep south from the mountainous Son Tra Peninsula. Da Nang hosts some of Vietnam's top luxury resorts, but much of the beach still belongs to the people who make it their playground, gym, and source of livelihood.",
+    "image": "/travel/assets/danang.jpg",
+    "topthings": {
+      "title": "Top things to do in Da Nang",
+      "details": [
+        {
+          "name": "Enjoy the beach",
+          "content": "Be sure to set the alarm clock early at least once on your stay. Along the shore, fishermen sell the day’s catch, football and volleyball matches spring up all around, and people jog, stroll or simply relax on the sand."
+        },
+        {
+          "name": "See the Son Tra Peninsula",
+          "content": "The Son Tra Peninsula strikes out into the ocean, its densely forested hillsides are home to the endangered red-shanked douc langur -- one of the world’s most striking primates. Grab some binoculars, hire a motorbike, and head out for a day of wildlife spotting."
+        },
+        {
+          "name": "Dine on street food",
+          "content": "Da Nang is a dream destination for foodies, with scores of seafront eateries and street food stalls. Mi Quang — a dish of rice noodles, pork, shrimp, quail eggs, peanuts and fresh herbs — is must-try delight."
+        },
+        {
+          "name": "Explore Marble Mountains",
+          "content": "Marble Mountains is a collection of five outcrops topped with atmospheric pagodas, only 15 minutes from the city. Set out in the early morning to take a serene walk up stone steps, explore hidden caves, and admire ancient shrines."
+        }
+      ]
+    },
+    "weather": {
+      "title": "Da Nang Weather",
+      "content": "Da Nang is a great destination year-round. However, the best months to visit are from March to May and September to October, when the weather is warm. June to August sees little rain and the sea is clear and calm. The rainy season from November to February brings long rains and moody weather."
+    },
+    "transport": {
+      "title": "Da Nang Transport",
+      "content": "The Da Nang International Airport has several daily connections to major cities in Vietnam. There are also a growing number of international connecting flights. Trains and buses pass through Da Nang, making it a convenient travel hub to explore the central region. In town, taxis are abundant, as well as ride-hailing apps. Popular trips from Da Nang are easily arranged, whether heading to Marble Mountain, Son Tra Peninsula, Hoi An, or Hai Van Pass, motorbike or car tours are readily available."
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "3-perfect-days-in-da-nang",
+          "title": "3 Perfect Days in Da Nang",
+          "image": "/travel/assets/perfect-day-danang.jpg"
+        },
+        {
+          "id": "must-do-danang",
+          "title": "Must-do Da Nang: An insider list",
+          "image": "/travel/assets/must-do-danang.jpg"
+        },
+        {
+          "id": "a-foodie-guide-to-da-nang",
+          "title": "A foodie's guide to Da Nang",
+          "image": "/travel/assets/top-dishes-danang.jpg"
+        }
+      ]
+    }
   },
-  "hochiminh": {
-    "destination": "Thành phố Hồ Chí Minh",
-    "content": "Thành phố Hồ Chí Minh là thành phố lớn nhất Việt Nam, nổi bật với sự phát triển kinh tế và các khu mua sắm."
+  "hcmc": {
+    "destination": "Hồ Chí Minh City",
+    "content": "Vibrating with energy, innovation and traffic – lots of traffic – Ho Chi Minh City, formerly known as Saigon, is the economic heart of Vietnam and the main hub of the southern region. A freewheeling, cosmopolitan metropolis, HCMC's dynamic cityscape draws together old and new Vietnam in the most compact of spaces, representing the city’s past as well as its future. This city has many well-known attractions, including the War Museum, Notre Dame Cathedral Basilica, and Ben Thanh Market.",
+    "image": "/travel/assets/hcmc.jpg",
+    "topthings": {
+      "title": "Top things to do in Ho Chi Minh City",
+      "details": [
+        {
+          "name": "See the top landmarks",
+          "content": "Walk down Đồng Khởi street to acquaint yourself with the Notre Dame Cathedral, the city's Central Post Office, and the Saigon Opera House. On a more local level, Bến Thành Market and the Jade Emperor Pagoda are worth a visit."
+        },
+        {
+          "name": "Shop small boutiques",
+          "content": "Around District 1, a host of old apartments and former office buildings have been repurposed as shopping centres. Decades-old buildings such as 22 Lý Tự Trọng and 42 Nguyễn Huệ are brimming with all kinds of fascinating stores."
+        },
+        {
+          "name": "Explore the Chinese Quarter",
+          "content": "The Chinese neighbourhood known as Chợ Lớn is great for exploring on foot. Head for Bình Tây Market, a colossal wholesale trading centre, and Thiên Hậu Pagoda, an atmospheric temple that pays homage to the goddess of the sea. "
+        },
+        {
+          "name": "Hop on a motorcycle",
+          "content": "Do as the locals do and hop on the back of a motorbike to see the city on street level and feel its energetic pulse. Motorbike tours set off in the evening, when the city is at its most romantic and the sidewalk vendors are out in force."
+        }
+      ]
+    },
+    "weather": {
+      "title": "Ho Chi Minh City Weather",
+      "content": "Ho Chi Minh City has consistent temperatures year-round, and the weather is generally warm. Heatwaves hit the city from April to May, welcoming the rainy season from May to November. Slightly cooler temperatures emerge in December and January."
+    },
+    "transport": {
+      "title": "Ho Chi Minh City Transport",
+      "content": "Travellers can arrive in Ho Chi Minh City by bus, train or plane. Tan Son Nhat international airport welcomes foreign and domestic arrivals daily, while various bus companies operate shuttles from Phnom Penh and destinations across Vietnam. Ho Chi Minh City also sees a steady stream of train travellers. Taxis are everywhere, but those with a Vietnamese SIM card can use ride-hailing apps like Grab. Local buses cover a good portion of the city. Travellers can also take a boat along the river, for a day trip to Củ Chi Tunnels or the Mekong Delta."
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "7-must-see-attractions-in-hcmc",
+          "title": "7 Must-See Attractions in HCMC",
+          "image": "/travel/assets/top-attractions-hcmc.jpg"
+        },
+        {
+          "id": "the-perfect-weekend-in-hcmc",
+          "title": "The perfect weekend in HCMC",
+          "image": "/travel/assets/perfect-weekend-hcmc.jpg"
+        },
+        {
+          "id": "eating-like-a-local-in-hcmc",
+          "title": "Eating like a local in HCMC",
+          "image": "/travel/assets/best-dishes-HCMC.jpg"
+        }
+      ]
+    }
   }
 }

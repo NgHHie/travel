@@ -39,6 +39,9 @@
   .container {
     @apply w-full max-w-6xl mx-auto;
   }
+  .container2 {
+    @apply w-full max-w-4xl mx-auto;
+  }
 }
 
 .playwrite-mx-guides-regular {

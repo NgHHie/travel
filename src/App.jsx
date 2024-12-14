@@ -8,6 +8,7 @@ import {
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Destination from "./pages/Destination";
+import Tip from "./pages/Tip";
 
 // Component ScrollToTop giúp cuộn trang về đầu khi URL thay đổi
 const ScrollToTop = () => {
@@ -32,6 +33,7 @@ const App = () => {
           <Route path="/home" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/destination/:id" element={<Destination />} />
+          <Route path="/tips/:id" element={<Tip />} />
         </Routes>
       </div>
     </Router>

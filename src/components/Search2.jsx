@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom"; // Import useParams từ react-router-dom
-
+import Selection2 from "./Selection2";
 import dataFile from "../json/hanoi.json";
 
 const Search2 = () => {
@@ -67,6 +67,24 @@ const Search2 = () => {
           <p className=" my-4 text-xl text-gray-600 text-justify ">
             {data.transport.content}
           </p>
+
+          <h2
+            className="text-center"
+            style={{
+              color: "#b2910e",
+            }}
+          >
+            {data.also.title}
+          </h2>
+          <section className="container mt-4 grid gap-4 sm:grid-cols-3 sm:grid-rows-auto">
+            {data.also.details.map((detail, index) => (
+              <Selection2
+                figure={detail.image}
+                caption={detail.title}
+                id={detail.id}
+              ></Selection2>
+            ))}
+          </section>
         </>
       )}
     </section>

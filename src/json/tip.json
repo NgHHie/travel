@@ -1,0 +1,71 @@
+{
+  "11-must-see-attractions-in-hanoi": {
+    "destination": "11 must-see attractions in Ha Noi",
+    "image": "/travel/assets/hcmmausoleum.jpg",
+    "content": "Hanoi will simultaneously surprise, charm and chew you up. Founded along the Red River, Hanoi was named Thang Long (soaring dragon) by Emperor Ly Thai To in 1010. Over a thousand years of war, natural disasters and new administrations, the city grew from swamplands into the charismatic capital it is today. Take in details of the ancient architecture, battle the barrage of millennials on motorbikes and drink fresh bia hơi in the Old Quarter. Here are 11 must-see stops in Hanoi.",
+    "topthings": {
+      "details": [
+        {
+          "name": "Ho Chi Minh Mausoleum",
+          "image": "/travel/assets/hcmmausoleum.jpg",
+          "content": "This commanding construction was built from 1973 to 1975 to house the embalmed body of Vietnam’s greatest political leader, Hồ Chí Minh. Visitors and Vietnamese queue for hours every morning to pay their respects to the cadaver, dressed in a khaki wardrobe and encased in a glass sarcophagus.",
+          "admission": "35,000 VND",
+          "hours": "8am - 11am, Tue-Thu, Sat-Sun (December to September) last entry at 10:15am",
+          "address": "So 1, Hung Vuong, Dien Bien, Ba Dinh"
+        },
+        {
+          "name": "One Pillar Pagoda",
+          "image": "/travel/assets/onepillar.jpg",
+          "content": "This Buddhist wooden pagoda was built in the middle of a lotus pond on a single stone pillar by the Emperor Ly Thai To in 1049. Archives suggest it was built in honor of the Goddess of Mercy, who answered the Emperor's prayers for a male heir. The structure is designed to resemble a lotus flower blossoming from muddy waters, a symbol of purity in Buddhist philosophy.",
+          "admission": "25,000 VND",
+          "hours": "8am - 11:30am everyday, and 2pm - 4pm, Tue-Thu, Sat-Sun",
+          "address": "Chua Mot Cot, Doi Can, Ba Dinh"
+        },
+        {
+          "name": "Hanoi Opera House",
+          "image": "/travel/assets/opera.jpg",
+          "content": "Constructed at the turn of the 20th century, this beautiful colonial building is the largest theater in Vietnam. After nearly 100 years of operation, the Opera House was carefully refurbished in 1997 and equipped with state-of-the-art facilities. Today the venue attracts renowned performers, productions and musicians.",
+          "tip": "TIP: Culture lovers should book tickets to see 'My Village' at the Opera House. This impressive showcase combines acrobatics, traditional dance and music.",
+          "admission": "300,000 VND",
+          "hours": "Check the website for performances",
+          "address": "1 Trang Tien, Hoan Kiem"
+        },
+        {
+          "name": "Hoan Kiem Lake",
+          "image": "/travel/assets/hoankiemlake.jpg",
+          "content": "Legend says Emperor Ly Thai To was gifted a magical sword by a giant golden turtle who lived in the lake in order to defeat the Ming dynasty. Once victorious, Ly Thai To gave the sword back to the turtle who dove down to return the sword to the gods. Hoan Kiem Lake is admired for its beauty as well as insight into the daily life of Hanoians. Watch locals practicing their daily exercise and Tai Chi routines in the gardens by the water's edge.",
+          "admission": "Free to the general public",
+          "hours": "Open all day"
+        },
+        {
+          "name": "Saint Joseph's Cathedral",
+          "image": "/travel/assets/joseph.jpg",
+          "content": "Saint Joseph’s Cathedral (also known as Hanoi Cathedral), was built on the site of the  Bao Thien Tower, which was the most famous landmark in the capital during the Ly Dynasty. The architect was inspired by the Neo-Gothic style of the Notre Dame de Paris. When visiting, expect to see a multicultural crowd of worshippers and plenty of Vietnamese newlyweds having romantic photo shoots.",
+          "admission": "Free",
+          "hours": "8am - noon, 2pm - 6pm, every day",
+          "address": "40 Nha Chung, Hoan Kiem"
+        }
+      ]
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "7-must-see-attractions-in-hcmc",
+          "title": "7 Must-See Attractions in HCMC",
+          "image": "/travel/assets/top-attractions-hcmc.jpg"
+        },
+        {
+          "id": "10-cool-collections-to-buy-in-vietnam",
+          "title": "10 cool collections to buy in Vietnam",
+          "image": "/travel/assets/cool-collections.jpg"
+        },
+        {
+          "id": "21-must-try-vietnamese-dishes",
+          "title": "21 must-try Vietnamese dishes",
+          "image": "/travel/assets/best-vietnamese-dishes.jpg"
+        }
+      ]
+    }
+  }
+}

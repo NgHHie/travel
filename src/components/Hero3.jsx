@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom"; // Import useParams từ react-router-dom
 
-import dataFile from "../json/hanoi.json";
+import dataFile from "../json/tip.json";
 import bgImage from "../assets/vietnam.jpg";
 
 const Hero = () => {
@@ -28,7 +28,7 @@ const Hero = () => {
         src={data ? data.image : bgImage}
         className="w-full h-full object-cover"
       />
-      <div className="absolute top-0 left-0 w-full h-full bg-gray-900/30"></div>
+      {/* <div className="absolute top-0 left-0 w-full h-full bg-gray-900/30"></div> */}
       <div className="absolute top-0 left-0 w-full h-full flex flex-col justify-center text-center">
         <h1 className="text-white mb-12 playwrite-mx-guides-regular leading-relaxed">
           {data ? data.destination : "Vietnam"}
