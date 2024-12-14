@@ -7,7 +7,7 @@ const Navbar = () => {
     setnavIsShown((navIsShown) => !navIsShown);
   };
   return (
-    <nav className="flex justify-between items-center h-20 px-4 absolute top-0 left-0 z-50 w-full text-white bg-transparent backdrop-blur">
+    <nav className="flex justify-between items-center h-20 px-4 absolute top-0 left-0 z-50 w-full text-white bg-transparent">
       <h1>VietnamTravel.</h1>
       <ul className="hidden md:flex">
         <li>
