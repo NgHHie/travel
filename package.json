@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/travel",
+  "homepage": "https://nghhie.github.io/travel",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
