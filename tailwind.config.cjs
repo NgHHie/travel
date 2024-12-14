@@ -6,12 +6,13 @@ module.exports = {
     extend: {
       colors: {
         primary: {
-          100: '#709dff',
-          200: '#5651e5'
+          100: "#709dff",
+          200: "#5651e5",
         },
       },
       fontFamily: {
-        poppins: ["Poppins", "sans-serif"],
+        poppins: ["Montserrat", "sans-serif"],
+        iconic: ["Playwrite MX Guides"],
       },
     },
   },

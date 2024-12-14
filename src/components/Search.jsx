@@ -1,80 +1,51 @@
-import React from 'react';
+import React from "react";
+import vietnammap from "../assets/vietnammap.png";
+import cauvang from "../assets/cauvang.webp";
 
 const Search = () => {
   return (
-    <section className='container px-4 my-16 grid gap-8 md:grid-cols-3'>
-      <div className='md:col-span-2'>
-        <h3 className='uppercase font-extrabold mb-4'>
-          luxury included vacations for tow people
-        </h3>
-        <p className='mb-10 text-gray-600 text-justify'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut assumenda
-          soluta eum, voluptatem dolorem nostrum vitae. Vitae veniam ad, ipsam,
-          itaque consectetur nemo quis quasi libero quam in harum sed aut ex
-          doloremque consequuntur? Sed optio consectetur placeat non tempore.
-          Placeat omnis molestias perferendis magni ipsum eveniet ad esse dicta
-          accusamus pariatur adipisci, culpa soluta veniam repellendus
-          consequuntur cum debitis!
-        </p>
-        <div className='flex flex-col sm:flex-row'>
-          <div className='text-center'>
-            <h4 className='uppercase font-extrabold mb-2'>leading service</h4>
-            <p className='uppercase text-gray-600'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            </p>
-          </div>
-          <div className='text-center'>
-            <h4 className='uppercase font-extrabold mb-2'>automated booking</h4>
-            <p className='uppercase text-gray-600'>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            </p>
-          </div>
+    <section
+      className="container" // Thêm grid-cols-1 cho màn hình nhỏ
+    >
+      <div
+        className="flex flex-col px-4 my-16 grid gap-8 mx-auto md:grid-cols-3 grid-cols-1"
+        style={{
+          backgroundImage: `url(${cauvang})`,
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+          backgroundRepeat: "no-repeat",
+          marginRight: "1rem",
+          marginLeft: "1rem",
+
+          // height: "100vh", // Chiều cao của section là chiều cao của viewport
+          justifyContent: "center", // Căn giữa theo chiều ngang
+          alignItems: "center", // Căn giữa theo chiều dọc
+        }}
+      >
+        {/* Div chứa ảnh */}
+        <div className="md:col-span-1 p-8 mx-auto">
+          <img src={vietnammap} alt="vietnammap" height="400px" width="400px" />
         </div>
-      </div>
-      <div>
-        <div className='border px-4 py-4 uppercase text-center'>
-          <p className='py-2'>get an additional 10% off</p>
-          <p className='py-2'>12 hours left</p>
-          <p className='py-2 text-white bg-black cursor-pointer'>
-            book now and save
+
+        {/* Div chứa văn bản */}
+        <div className="md:col-span-2 bg-white bg-opacity-70 p-8 max-w-[600px] mx-auto">
+          <h3 className="uppercase text-center font-extrabold mb-4">
+            The diversity of natural beauty and landscapes
+          </h3>
+          <p className="mb-10 text-gray-600 text-justify">
+            The capital of Hanoi is your gateway to the treasures of the north:
+            spectacular mountains, valleys and bays studded with limestone
+            karsts. Smack in the centre, up-and-coming Danang is one of
+            Vietnam’s most progressive cities. From here you have easy access to
+            photogenic riverside towns, national parks and long, sandy beaches.
+            The southern metropolis of Ho Chi Minh City will entice you with its
+            cool culture and captivating streets (just watch out for those
+            motorcycles.) Nearby, the Mekong Delta runs to the sea, passing
+            on-the-water villages and mangrove forests along the way. And all
+            down Vietnam's S-shaped coast, you’ll find islands big and small,
+            just waiting to be explored.
           </p>
         </div>
-        <form action=''>
-          <div className='my-4'>
-            <label htmlFor='destination'>Destination</label>
-            <select
-              name='destinations'
-              id='destination'
-              className='block w-full p-2 border rounded'
-            >
-              <option value='dog'>Bora Bora</option>
-              <option value='cat'>Cozumel</option>
-              <option value='hamster'>Maldives</option>
-              <option value='parrot'>Jamaica</option>
-              <option value='spider'>Key West</option>
-              <option value='goldfish'>Antigua</option>
-            </select>
-          </div>
-          <div className='my-4'>
-            <label htmlFor='checkIn'>Check-In</label>
-            <input
-              type='date'
-              id='checkIn'
-              name='checkIn'
-              className='block w-full p-2 border rounded'
-            ></input>
-          </div>
-          <div className='my-4'>
-            <label htmlFor='checkOut'>Check-Out</label>
-            <input
-              type='date'
-              id='checkOut'
-              name='checkOut'
-              className='block w-full p-2 border rounded'
-            ></input>
-          </div>
-          <button className='btn'>Rates & Availabilities</button>
-        </form>
       </div>
     </section>
   );

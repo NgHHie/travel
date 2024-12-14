@@ -1,0 +1,14 @@
+{
+  "hanoi": {
+    "destination": "Hà Nội",
+    "content": "Hà Nội là thủ đô của Việt Nam, nổi tiếng với di tích lịch sử và văn hóa."
+  },
+  "hoian": {
+    "destination": "Hội An",
+    "content": "Hội An là một thành phố cổ xưa của Việt Nam, nổi tiếng với những ngôi nhà cổ và những món ăn đặc sản."
+  },
+  "hochiminh": {
+    "destination": "Thành phố Hồ Chí Minh",
+    "content": "Thành phố Hồ Chí Minh là thành phố lớn nhất Việt Nam, nổi bật với sự phát triển kinh tế và các khu mua sắm."
+  }
+}
