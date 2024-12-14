@@ -24,22 +24,15 @@ const Hero = () => {
 
   return (
     <header className="w-screen h-screen relative">
-      <img src={bgImage} className="w-full h-full object-cover" />
+      <img
+        src={data.image ? data.image : bgImage}
+        className="w-full h-full object-cover"
+      />
       <div className="absolute top-0 left-0 w-full h-full bg-gray-900/30"></div>
       <div className="absolute top-0 left-0 w-full h-full flex flex-col justify-center text-center">
         <h1 className="text-white mb-12 playwrite-mx-guides-regular">
           {data ? data.destination : "Vietnam"}
         </h1>
-
-        {/* Hiển thị dữ liệu nếu có */}
-        {data ? (
-          <div>
-            {/* <h2 className="text-white">{data.}</h2> */}
-            <p className="text-white">{data.content}</p>
-          </div>
-        ) : (
-          <p className="text-white">Loading...</p>
-        )}
       </div>
     </header>
   );

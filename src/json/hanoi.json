@@ -1,7 +1,57 @@
 {
   "hanoi": {
     "destination": "Hà Nội",
-    "content": "Hà Nội là thủ đô của Việt Nam, nổi tiếng với di tích lịch sử và văn hóa."
+    "image": "public/assets/hanoi.jpg",
+    "content": "Founded over 1000 years ago, Vietnam’s capital city is rich in history, with the streets of its rambling Old Quarter dating back to the 14th century. Wandering these tree-lined lanes past crumbling colonial facades will transport you back in time. However, today's Hanoi is about much more than the past. The ancient city is being invigorated with modern cafes, world-class restaurants, and cool art galleries. When the sun goes down, you have your pick of watering holes, from sophisticated rooftop bars to buzzing bia hơi. If you're traveling to Hanoi for the first time, these are experiences you must try at least once in your life. From ancient temples to buzzing markets, Hanoi's got it all. It's basically the cultural heartbeat of Vietnam. ",
+    "topthings": {
+      "title": "Top things to do in Hanoi",
+      "details": [
+        {
+          "name": "Hanoi Old Quarter",
+          "content": "The Old Quarter is the heart of Hanoi. This is where you'll find the city's most famous street, Hang Gai, which is lined with boutiques selling silk clothing, lacquerware, and other souvenirs. The Old Quarter is also home to some of the city's best street food, with vendors selling everything from pho to banh mi. The Old Quarter is a great place to explore on foot, with narrow streets lined with old buildings and temples. You can also take a cyclo ride through the Old Quarter, which is a fun way to see the sights."
+        },
+        {
+          "name": "Hoan Kiem Lake",
+          "content": "Hoan Kiem Lake is a beautiful lake in the center of Hanoi. The lake is surrounded by parks and gardens, making it a great place to relax and enjoy the scenery. The lake is also home to the Ngoc Son Temple, which is located on a small island in the middle of the lake. The temple is dedicated to the 14th-century military leader Tran Hung Dao, who defeated the Mongols. The lake is a popular spot for locals and tourists alike, with many people coming here to take a leisurely stroll or enjoy a picnic by the water."
+        },
+        {
+          "name": "Temple of Literature",
+          "content": "The Temple of Literature is a beautiful temple in Hanoi that was built in 1070. The temple is dedicated to Confucius and is one of the oldest universities in Vietnam. The temple is a great place to learn about Vietnamese history and culture, with many ancient artifacts on display. The temple is also home to the Imperial Academy, which was Vietnam's first national university. The temple is a popular spot for tourists, with many people coming here to take photos and learn about the history of Vietnam."
+        },
+        {
+          "name": "Hoa Lo Prison",
+          "content": "Hoa Lo Prison is a historic prison in Hanoi that was used by the French colonial government to imprison political prisoners. The prison is now a museum that tells the story of the Vietnamese struggle for independence. The museum is a sobering reminder of the hardships faced by the Vietnamese people during the colonial period. The museum is a popular spot for tourists, with many people coming here to learn about the history of Vietnam"
+        }
+      ]
+    },
+    "weather": {
+      "title": "Hanoi Weather",
+      "content": "Hanoi has a humid subtropical climate, with hot, humid summers and cool, dry winters. The city experiences four distinct seasons, with a hot and rainy summer from May to September, a cool and dry autumn from October to December, a cold and damp winter from January to March, and a hot and humid spring from April to May. The best time to visit Hanoi is during the autumn months of September to November, when the weather is cool and dry, and the city is at its most beautiful. The winter months of December to February can be cold and damp, while the summer months of May to September can be hot and rainy. The spring months of March to April can be hot and humid, with occasional rain showers."
+    },
+    "transport": {
+      "title": "Getting around Hanoi",
+      "content": "Hanoi is a large city with a population of over 7 million people, so getting around can be a challenge. The city has a good public transportation system, with buses, taxis, and motorbikes available for hire. The city also has a number of bicycle rental shops, which are a great way to explore the city. If you're looking for a more traditional way to get around, you can take a cyclo ride, which is a type of bicycle taxi that is popular in Vietnam. The city also has a number of pedestrian-only streets, which are a great place to explore on foot. If you're looking to get out of the city, you can take a day trip to the nearby countryside, where you can explore the beautiful countryside and visit traditional villages."
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "11-must-see-attractions-in-hanoi",
+          "title": "11 Must-See Attractions in Hanoi",
+          "image": "hanoi.jpg"
+        },
+        {
+          "id": "11-must-see-attractions-in-hanoi",
+          "title": "11 Must-See Attractions in Hanoi",
+          "image": "hanoi.jpg"
+        },
+        {
+          "id": "11-must-see-attractions-in-hanoi",
+          "title": "11 Must-See Attractions in Hanoi",
+          "image": "hanoi.jpg"
+        }
+      ]
+    }
   },
   "hoian": {
     "destination": "Hội An",

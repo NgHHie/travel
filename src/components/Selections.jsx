@@ -28,9 +28,9 @@ const Selections = () => {
       </div>
 
       {/* Các hình ảnh */}
-      <Selection figure={hanoi} caption="Ha Noi" />
-      <Selection figure={halong} caption="Ha Long" />
-      <Selection figure={sapa} caption="Sapa" />
+      <Selection figure={hanoi} caption="Ha Noi" id="hanoi" />
+      <Selection figure={halong} caption="Ha Long" id="halong" />
+      <Selection figure={sapa} caption="Sapa" id="sapa" />
 
       {/* Dòng tiêu đề tiếp theo */}
       <div className="sm:col-span-3 border-b border-gray-300 pt-2">
@@ -42,9 +42,9 @@ const Selections = () => {
       </div>
 
       {/* Các hình ảnh */}
-      <Selection figure={danang} caption="Da Nang" />
-      <Selection figure={hoian} caption="Hoi An" />
-      <Selection figure={hue} caption="Hue" />
+      <Selection figure={danang} caption="Da Nang" id="danang" />
+      <Selection figure={hoian} caption="Hoi An" id="hoian" />
+      <Selection figure={hue} caption="Hue" id="hue" />
 
       {/* Dòng tiêu đề tiếp theo */}
       <div className="sm:col-span-3 border-b border-gray-300 pt-2">
@@ -56,9 +56,9 @@ const Selections = () => {
       </div>
 
       {/* Các hình ảnh */}
-      <Selection figure={hcmc} caption="Ho Chi Minh City" />
-      <Selection figure={cantho} caption="Can Tho" />
-      <Selection figure={binhthuan} caption="Binh Thuan" />
+      <Selection figure={hcmc} caption="Ho Chi Minh City" id="hcmc" />
+      <Selection figure={cantho} caption="Can Tho" id="cantho" />
+      <Selection figure={binhthuan} caption="Binh Thuan" id="binhthuan" />
 
       {/* Dòng tiêu đề tiếp theo */}
       <div className="sm:col-span-3 border-b border-gray-300 pt-2">
@@ -70,9 +70,9 @@ const Selections = () => {
       </div>
 
       {/* Các hình ảnh */}
-      <Selection figure={phuquoc} caption="Phu Quoc" />
-      <Selection figure={catba} caption="Cat Ba" />
-      <Selection figure={lyson} caption="Ly Son" />
+      <Selection figure={phuquoc} caption="Phu Quoc" id="phuquoc" />
+      <Selection figure={catba} caption="Cat Ba" id="catba" />
+      <Selection figure={lyson} caption="Ly Son" id="lyson" />
     </section>
   );
 };
