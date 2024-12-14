@@ -25,7 +25,7 @@ const Hero = () => {
   return (
     <header className="w-screen h-screen relative">
       <img
-        src={data.image ? data.image : bgImage}
+        src={data ? data.image : bgImage}
         className="w-full h-full object-cover"
       />
       <div className="absolute top-0 left-0 w-full h-full bg-gray-900/30"></div>
