@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import {
-  BrowserRouter as Router,
+  HashRouter as Router, // Thay đổi từ BrowserRouter thành HashRouter
   Route,
   Routes,
   useLocation,
@@ -9,6 +9,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import Destination from "./pages/Destination";
 
+// Component ScrollToTop giúp cuộn trang về đầu khi URL thay đổi
 const ScrollToTop = () => {
   const location = useLocation();
 
@@ -22,11 +23,12 @@ const ScrollToTop = () => {
 
 const App = () => {
   return (
-    <Router basename="/travel">
-      <ScrollToTop /> {/* Thêm basename */}
+    <Router>
+      <ScrollToTop /> {/* Cuộn trang về đầu khi thay đổi URL */}
       <div>
         <Routes>
-          <Route path="/" element={<Home />} /> {/* Cập nhật đường dẫn */}
+          {/* Định nghĩa các routes */}
+          <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/destination/:id" element={<Destination />} />
