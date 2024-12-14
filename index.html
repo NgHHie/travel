@@ -26,25 +26,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>VietnamTravel.</title>
     <style>
-      /* Ẩn thanh cuộn trong mọi trình duyệt */
-      html,
-      body {
-        height: 100%; /* Đảm bảo chiều cao của body phủ toàn bộ viewport */
-        margin: 0; /* Loại bỏ margin mặc định */
-        overflow: hidden; /* Ẩn thanh cuộn */
-      }
-
       #root {
-        height: 100%; /* Đảm bảo #root phủ toàn bộ chiều cao của body */
-        overflow: auto; /* Cho phép nội dung cuộn khi cần thiết */
+        overflow-y: scroll; /* Cho phép cuộn dọc nhưng không hiển thị thanh cuộn */
+        scrollbar-width: none; /* Firefox */
       }
 
-      /* Ẩn thanh cuộn trong các trình duyệt khác */
       #root::-webkit-scrollbar {
-        display: none; /* Ẩn thanh cuộn trong Chrome/Safari */
-      }
-      #root {
-        scrollbar-width: none; /* Ẩn thanh cuộn trong Firefox */
+        display: none; /* Ẩn thanh cuộn trên Chrome, Safari */
       }
     </style>
   </head>
