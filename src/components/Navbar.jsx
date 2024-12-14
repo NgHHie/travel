@@ -11,13 +11,13 @@ const Navbar = () => {
       <h1>VietnamTravel.</h1>
       <ul className="hidden md:flex">
         <li>
-          <Link to="/travel/home">Home</Link>
+          <Link to="/home">Home</Link>
         </li>
         <li>
-          <Link to="/travel/destination">Destinations</Link>
+          <Link to="/destination">Destinations</Link>
         </li>
         <li>
-          <Link to="/travel/about">About me</Link>
+          <Link to="/about">About me</Link>
         </li>
         {/* <li>
           <a href="">Views</a>
@@ -95,13 +95,13 @@ const Navbar = () => {
           </div>
           <ul className=" mb-4">
             <li className="border-b-2 border-b-gray-600">
-              <Link to="/travel/home">Home</Link>
+              <Link to="/home">Home</Link>
             </li>
             <li className="border-b-2 border-b-gray-600">
-              <Link to="/travel/destination">Destinations</Link>
+              <Link to="/destination">Destinations</Link>
             </li>
             <li className="border-b-2 border-b-gray-600">
-              <Link to="/travel/about">About me</Link>
+              <Link to="/about">About me</Link>
             </li>
             {/* <li className="border-b-2 border-b-gray-600">
               <a href="">Views</a>
