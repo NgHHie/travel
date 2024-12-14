@@ -79,6 +79,7 @@ const Search2 = () => {
           <section className="container mt-4 grid gap-4 sm:grid-cols-3 sm:grid-rows-auto">
             {data.also.details.map((detail, index) => (
               <Selection2
+                key={index}
                 figure={detail.image}
                 caption={detail.title}
                 id={detail.id}

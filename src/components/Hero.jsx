@@ -1,5 +1,5 @@
-import React from "react";
-import { useState } from "react";
+import React, { useState } from "react";
+import { Link } from "react-router-dom"; // Import Link từ react-router-dom
 import bgImage from "../assets/vietnam.jpg";
 
 const Hero = () => {
@@ -8,44 +8,25 @@ const Hero = () => {
 
   // Dữ liệu mẫu cho gợi ý
   const suggestions = [
-    "Hanoi",
-    "Ho Chi Minh City",
-    "Halong Bay",
-    "Da Nang",
-    "Nha Trang",
-    "Hue",
-    "Hoi An",
+    "Ha Noi",
+    "Ha Long",
     "Sapa",
-    "Ha Giang",
-    "Ninh Binh",
-    "Phan Thiet",
-    "Mui Ne",
+    "Da Nang",
+    "Hoi An",
+    "Hue",
+    "Ho Chi Minh City",
+    "Can Tho",
+    "Binh Thuan",
     "Phu Quoc Island",
-    "Con Dao Island",
     "Cat Ba Island",
     "Ly Son Island",
-    "Bach Long Vi Island",
-    "Ba Ria - Vung Tau",
-    "Quang Ninh",
-    "Thanh Hoa",
-    "Nghe An",
-    "Ha Tinh",
-    "Quang Binh",
-    "Quang Tri",
-    "Thua Thien Hue",
-    "Binh Dinh",
-    "Quang Nam",
-    "Khanh Hoa",
-    "Binh Thuan",
-    "Can Tho",
-    "Cai Be",
-    "Mekong Delta",
   ];
 
   // Lọc gợi ý dựa trên input
   const filteredSuggestions = suggestions.filter((item) =>
     item.toLowerCase().includes(inputValue.toLowerCase())
   );
+
   return (
     <header className="w-screen h-screen relative">
       <img src={bgImage} className="w-full h-full object-cover" />
@@ -70,7 +51,6 @@ const Hero = () => {
                 setInputValue(e.target.value);
                 setShowDropdown(true); // Hiển thị dropdown khi nhập
               }}
-              // onFocus={() => setShowDropdown(true)} // Hiển thị dropdown khi focus
             />
 
             {/* Nút mũi tên quay xuống */}
@@ -90,7 +70,6 @@ const Hero = () => {
                 <path
                   strokeLinecap="round"
                   strokeLinejoin="round"
-                  // d="M19.5 12l-7.5 7.5m0 0L4.5 12m7.5 7.5V4.5"
                   d="M12 16l-6-6h12l-6 6z"
                 />
               </svg>
@@ -103,12 +82,20 @@ const Hero = () => {
                 <li
                   key={index}
                   className="p-2 hover:bg-gray-200 cursor-pointer"
-                  onClick={() => {
-                    setInputValue(item); // Gán giá trị cho input
-                    setShowDropdown(false); // Đóng dropdown
-                  }}
                 >
-                  {item}
+                  {/* Sử dụng Link để điều hướng */}
+                  <Link
+                    to={`/destination/${item
+                      .toLowerCase()
+                      .replace(/\s+/g, "")}`}
+                    className="w-full block"
+                    onClick={() => {
+                      setInputValue(item); // Gán giá trị cho input
+                      setShowDropdown(false); // Đóng dropdown
+                    }}
+                  >
+                    {item}
+                  </Link>
                 </li>
               ))}
               {filteredSuggestions.length === 0 && (
@@ -116,7 +103,6 @@ const Hero = () => {
               )}
             </ul>
           )}
-          {/*  */}
         </form>
       </div>
     </header>

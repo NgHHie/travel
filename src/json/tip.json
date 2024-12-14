@@ -67,5 +67,101 @@
         }
       ]
     }
+  },
+  "3-walking-tours-of-hanoi": {
+    "destination": "3 walking tours of Ha Noi",
+    "image": "/travel/assets/walking-tours.jpg",
+    "content": "Like many great cities, Hanoi is best seen on foot. Narrow alleys, tree-lined boulevards and pretty lakes are just the beginning of the capital’s charms. Set your own pace and get lost in the city’s hidden treasures — old and new — with any of these three do-it-yourself walking tours.",
+    "topthings": {
+      "details": [
+        {
+          "name": "Hoan Kiem and the French Quarter",
+          "image": "/travel/assets/thehuc.jpg",
+          "content": "Begin at Hoan Kiem Lake, an attraction in itself, ringed with trees and home to a legendary tower. Head to St. Joseph’s Cathedral on Ly Quoc Su for a snapshot of local life: street side bustle, kids playing, and women selling fruits from bamboo baskets. The picturesque yellow villa at Hang Trong Gardens on the same street is worth a look, before you stroll on to the Vietnamese Women’s Museum — one of the best in the country.\n\nWalk a block to Ba Trieu st. where you’ll find sidewalk cafes and stalls serving phở and cơm rang gà. Turn right on Nguyen Du street to reach the lovely Thien Quang Lake with rows of centuries-old trees, a quaint temple, and an old banyan tree.\n\nWalk down and cross Tran Nhan Tong st. and enter Reunification Park. Hanoi’s largest green space is ringed with paved paths where locals love to exercise. Sip a coconut by the water, or pedal out in a swan boat. Exit on the eastern side of the park on Tue Tinh st. and make your way toward the ornate Hanoi Opera House.\n\nHanoi’s French Quarter is known for high-end stores and colonial-era architecture, a fascinating contrast from the crumbling and colourful buildings you passed earlier. Finish your stroll with a well-earned coffee on the terrace of the Metropole Hotel."
+        },
+        {
+          "name": "Markets, Bridges and Banana Island",
+          "image": "/travel/assets/market.jpg",
+          "content": "Start off at Café Pho Co, a hideaway in the Old Quarter, for some indulgent egg coffee. To find the cafe, look for a silk shop at 11 Hang Gai st. Walk past the textiles into the alley behind and you’ll find a courtyard serving egg coffee with views of the lake. After your coffee, head down Hang Dao st. toward Dong Xuan Market. Turn right on Cau Dong, then turn left to a side street where wholesale spice and fruit vendors peddle an array of exotic goods. If you’d like to nab an ingredient to bring home, this is the place."
+        }
+      ]
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "11-must-see-attractions-in-hanoi",
+          "title": "11 Must-See Attractions in Ha Noi",
+          "image": "/travel/assets/atractions.jpg"
+        },
+        {
+          "id": "12-traditional-vietnamese-souvenirs",
+          "title": "12 traditional Vietnamese souvenirs",
+          "image": "/travel/assets/traditional-souvenirs.jpg"
+        },
+        {
+          "id": "21-must-try-vietnamese-dishes",
+          "title": "21 must-try Vietnamese dishes",
+          "image": "/travel/assets/best-vietnamese-dishes.jpg"
+        }
+      ]
+    }
+  },
+  "the-perfect-weekend-in-hanoi": {
+    "destination": "The perfect weekend in Ha Noi",
+    "image": "/travel/assets/weekend-in-hanoi.jpg",
+    "content": "Discover the beauty of Vietnam’s capital in less than 48 hours. From culinary highlights to architectural gems, historic sites to rooftop bars, this two-day Hanoi itinerary will give you a well-rounded taste of Hanoi.",
+    "topthings": {
+      "details": [
+        {
+          "name": "Saturday morning - explore old Hanoi",
+          "image": "/travel/assets/saturday-morning.jpeg",
+          "content": "When in Hanoi, do as the Hanoians do: greet the day with a steaming bowl of phở. For more than 40 years, Phở Thin owner Nguyen Trong Thin has been serving up bowls of phở with a special flair that has made his version of phở one of the most popular in Hanoi.\n\nNext, take a stroll around Hoan Kiem Lake. A 15th-century legend says a giant turtle in the lake recovered the magical sword Emperor Ly Thai To used to defeat the Chinese. On the northern side, the picturesque Ngoc Son Temple sits on a small island. \n\n Give your feet a break and see the Old Quarter by way of cyclo, a type of pedal-powered rickshaw. If you're keen to do a little shopping, you'll find several enticing boutiques tucked away on Silk Street (Hàng Gai). "
+        },
+        {
+          "name": "Saturday afternoon - discover fascinating history",
+          "image": "/travel/assets/vanmieu.jpeg",
+          "content": "Time to eat! Make your way to the Sofitel Legend Metropole for a tantalizing Vietnamese buffet lunch at Spices Garden. Priced at 780,000 VND, it’s well worth the chance to sample a wide variety of fantastic Vietnamese dishes. Afterwards, check out the hotel's beautiful interiors.\n\nAfter lunch and maybe a street-side coffee, set off to your next stop, the Temple of Literature. Built in honour of Confucius and established in 1076, this is also the site of Vietnam’s oldest university. Admire the traditional-style architecture, the ponds, and ancient stone stelae.",
+          "tip": "TIP: For a less pricey lunch option, take your pick from the street stalls on Ngõ Tràng Tiền, where tasty noodles, fried rice and real Hanoian bún đậu go for two dollars a plate."
+        },
+        {
+          "name": "Saturday evening - like a local",
+          "image": "/travel/assets/evening.jpg",
+          "content": "If you fancy street food, take a quick stroll to Lý Văn Phức for barbecue chicken with a side of grilled honey bread and spicy chilli sauce. Or grab a cab to Ngũ Xã street on Truc Bach Lake to try the capital’s famous phở cuốn rolls and other local favourites.\n\nAs night descends, head back to the intersection of Tạ Hiện and Lương Ngọc Quyến. This is “Bia Hoi Corner,” where pubs spill out onto the street in true Vietnamese fashion. Park yourself on a little stool and order a glass of freshly brewed beer (15,000 VND) straight from the barrels."
+        },
+        {
+          "name": "Sunday morning - Hanoian traditions",
+          "image": "/travel/assets/sunday-morning.jpeg",
+          "content": "Kickstart day two with a brew unique to Hanoi, egg coffee or cà phê trứng. The founder father of Giảng Cafe is none other than the creator of the recipe himself. Giang’s substitution of fresh milk for whisked eggs during French War food shortages birthed this famous hybrid.\n\nQuickly make your way to the Ho Chi Minh Mausoleum, an imposing marble stronghold situated in the centre of the grandiose Ba Dinh Square. If you want a chance to see the embalmed body of Ho Chi Minh, dress modestly and come early: the last entry is at 10:15 a.m.",
+          "tip": "The mausoleum shuts down annually between September 4 to November 4, when the body is sent to Russia for upkeep."
+        },
+        {
+          "name": "Sunday afternoon - Vietnamese culture in a snapshot",
+          "image": "/travel/assets/buncha.jpeg",
+          "content": "A 20-minute taxi drive from the centre, the Museum of Ethnology is dedicated to the traditions of Vietnam’s 54 ethnic groups. A first-class experience, the 40,000 VND ticket covers all areas of this three-part complex, including a garden with full-scale replicas of ethnic homes.\n\nOn your way back to town, stop by Tay Ho Lake, also known as West Lake. The 17-km shoreline is lined with hip cafes, ancient pagodas and picturesque gardens, perfect for cyclists. The Hanoi Bicycle Collective is your one-stop for bike rentals (60,000 VND for up to six hours.)",
+          "tip": "TIP: Don't miss the Water Puppet theatre performance at 2 p.m."
+        }
+      ]
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "3-walking-tours-of-hanoi",
+          "title": "3 walking tours of Ha Noi",
+          "image": "/travel/assets/walking-tours.jpg"
+        },
+        {
+          "id": "12-traditional-vietnamese-souvenirs",
+          "title": "12 traditional Vietnamese souvenirs",
+          "image": "/travel/assets/traditional-souvenirs.jpg"
+        },
+        {
+          "id": "11-must-see-attractions-in-hanoi",
+          "title": "11 Must-See Attractions in Ha Noi",
+          "image": "/travel/assets/atractions.jpg"
+        }
+      ]
+    }
   }
 }

@@ -42,12 +42,12 @@
         },
         {
           "id": "3-walking-tours-of-hanoi",
-          "title": "11 Must-See Attractions in Ha Noi",
+          "title": "3 walking tours of Ha Noi",
           "image": "/travel/assets/walking-tours.jpg"
         },
         {
           "id": "the-perfect-weekend-in-hanoi",
-          "title": "11 Must-See Attractions in Ha Noi",
+          "title": "The perfect weekend in Ha Noi",
           "image": "/travel/assets/weekend-in-hanoi.jpg"
         }
       ]
@@ -157,6 +157,330 @@
           "id": "eating-like-a-local-in-hcmc",
           "title": "Eating like a local in HCMC",
           "image": "/travel/assets/best-dishes-HCMC.jpg"
+        }
+      ]
+    }
+  },
+  "halong": {
+    "destination": "Hạ Long",
+    "content": "For many, the seascape of Ha Long Bay is synonymous with Vietnam. Cruises sail emerald green waters among thousands of rugged islands and islets, stopping at spectacular caves through which visitors can wander, viewing impressive, centuries-old formations. Ha Long Bay's mystical beauty has made it a bucket list attraction within the country, but it's still possible to find secluded corners to call your own.",
+    "image": "/travel/assets/halong.jpg",
+    "topthings": {
+      "title": "Top things to do in Ha Long Bay",
+      "details": [
+        {
+          "name": "Cruise the bay",
+          "content": "Nothing beats spending watching the sun set over the calm waters of Ha Long Bay, and waking up to a serene morning surrounded by karsts. Relaxing on a sun deck surrounded by magnificent panoramas is the highlight of many a trip."
+        },
+        {
+          "name": "Explore a floating village",
+          "content": "Ha Long Bay is not just a UNESCO-listed site, it’s also home to a number of fishing communities who have lived on the water for centuries. Take a boat tour around a floating village for a glimpse of this rare and beautiful way of life."
+        },
+        {
+          "name": "Clamber into a cave",
+          "content": "Beneath their rocks and jungled exteriors, many of Ha Long’s ancient karsts have been carved out by rain and water currents. Take a look inside these geological wonders on foot — some are a squeeze while others are enormous."
+        },
+        {
+          "name": "Paddle out in a kayak",
+          "content": "Even if you’re not an experienced kayaker, you can’t miss the chance to navigate your way around Ha Long’s gorgeous seascape. Just before sunset is an ideal time to kayak to see quiet lagoons and fishing boats up close."
+        }
+      ]
+    },
+    "weather": {
+      "title": "Ha Long Weather",
+      "content": "Ha Long Bay’s climate can be cool with clear skies from September to November. Mist drifts in from December to March making the bay look all the more mysterious. April and May offer sunshine and a refreshing breeze, while the monsoon season can make visits unpredictable from June to August."
+    },
+    "transport": {
+      "title": "Ha Long Transport",
+      "content": "Most visitors to Ha Long Bay opt for a packaged cruise, including transport to and from Hanoi. Independent travellers can take a bus to Ha Long City or Hai Phong and a taxi to the port. It’s also possible to charter a seaplane for a 45-minute ride direct from Noi Bai International Airport. Travelling Ha Long Bay is best by boat. Those looking for a bird's-eye view can book a 15-minute seaplane ride over the bay. In Ha Long City you can hire a taxi to get around town."
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "great-ways-to-see-the-gulf-of-tonkin",
+          "title": "Great ways to see the Gulf of Tonkin",
+          "image": "/travel/assets/tonkin.jpg"
+        },
+        {
+          "id": "sea-and-sky",
+          "title": "Sea and sky: Ha Long aboard the emeraude",
+          "image": "/travel/assets/cruise.jpg"
+        },
+        {
+          "id": "3-reasons-a-cruise-in-lan-ha-bay",
+          "title": "3 reasons a cruise in Lan Ha Bay should be on your bucket list",
+          "image": "/travel/assets/bucketlist.jpg"
+        }
+      ]
+    }
+  },
+  "sapa": {
+    "destination": "Sapa",
+    "content": "Sapa town stands at the head of a deep valley of magnificent rice terraces that are still farmed today as they have been for centuries. Backdrops don’t get much more spectacular. Enticing ribbons of road lead the eye down to the valley floor, white-water rivers rush among rice fields, and lush green mountains stretch into the distance as far as the eye can see. The highest peak in the region, Mount Fansipan, crowns the ragged ridge line high above town.",
+    "image": "/travel/assets/sapa.jpg",
+    "topthings": {
+      "title": "Top things to do in Sapa",
+      "details": [
+        {
+          "name": "Summit Mount Fansipan",
+          "content": "A 6-kilometre cable car journey will whisk you 3,143m to the summit of Mount Fansipan in just 15 minutes.  Wander the pagoda complex before climbing the last few steps to the summit. The views from the ‘Roof of Indochina’ are unmatched."
+        },
+        {
+          "name": "Visit an ethnic minority market",
+          "content": "Every Sunday the Bac Ha market bursts into life, as hundreds of traders from the Dzao, Han, Xa Fang, Tay and Thai tribes descend on the market, decked out in traditional garb. Expect a riot of colour and excited haggling."
+        },
+        {
+          "name": "Go trekking in the hills",
+          "content": "Sapa offers some of Vietnam's best trekking, and some villages such as Cat Cat and Ta Phin can be seen without a guide. Book an overnight trek to wander through rice terraces, bathe in waterfalls and experience ethnic culture firsthand."
+        },
+        {
+          "name": "Stay in a mountain lodge ",
+          "content": "Stay outside the tourist hub of Sapa in simple comfort at a mountaintop lodge. Sapa is home to excellent lodges and homestays. Set among the rice terraces, you’ll brush shoulders with farmers as they go about their daily lives."
+        }
+      ]
+    },
+    "weather": {
+      "title": "Sapa Weather",
+      "content": "The best time to visit Sapa is in September and October when the rice terraces are at their most splendid; or in April and May when the weather is ideal and skies are clear. For those who don’t mind hot weather, June to August is a fine time to visit. Expect chilly weather from November to March."
+    },
+    "transport": {
+      "title": "Sapa Transport",
+      "content": "Overnight trains are the most popular way to reach Sapa via the neighbouring province capital, Lao Cai. Upon arrival, transfer vans finish the journey up the mountains. Alternatively, regular buses and shuttle vans run from Hanoi with a journey time of five to six hours, stopping in the centre of town. As a former hill station, Sapa has plenty of steep roads and pathways. Many visitors get around by foot, or by taxi. Adventure-seekers can rent mountain bikes to explore the trails along the valley."
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "my-sapa",
+          "title": "My Sapa: Ly Thy Ker",
+          "image": "/travel/assets/lythyker.jpg"
+        },
+        {
+          "id": "25-striking-images-of-sapa",
+          "title": "25 striking images of Vietnam's ethnic groups",
+          "image": "/travel/assets/ethnic.jpg"
+        },
+        {
+          "id": "sapa-for-sustainable-tourisms",
+          "title": "Sapa for sustainable tourisms",
+          "image": "/travel/assets/sustainable.jpg"
+        }
+      ]
+    }
+  },
+  "hoian": {
+    "destination": "Hoi An",
+    "content": "Hoi An is a place where the bold march of progress peters into a leisurely amble. In this one-time trading port, the Thu Bon River meanders past crumbling shop houses and weathered pagodas, while sampans come and go from the old ferry quay. Outside the Old Town, two-lane roads slice through waving rice fields and emerge at a frothy coastline. Stay a couple of days, and Hoi An's easygoing beauty and lantern-lit nights may leave you hopelessly beguiled. Your journey to Hoi An awaits! Check out these Hoi An explorations to prepare for your upcoming trip!",
+    "image": "/travel/assets/hoian.jpg",
+    "topthings": {
+      "title": "Top things to do in Hoi An",
+      "details": [
+        {
+          "name": "Get lost in the Old Town",
+          "content": "Merchants from China, Japan and later Europe settled in Hoi An from the 15th to 19th centuries, creating a unique architectural fusion. Bring your camera as you tread the Japanese Bridge, Tan Ky ancestral house, and Phuc Kien Assembly Hall."
+        },
+        {
+          "name": "Cycle in the countryside",
+          "content": "Sunrise in Hoi An is a prime time to grab your hat and hop on a bike. With any luck, you’ll find yourself in a sea of green, with water buffalo flicking their tails. In Cam Thanh and Tra Que, you’ll pass vegetable farms and frond-fringed ponds."
+        },
+        {
+          "name": "Hit the beach",
+          "content": "An Bang Beach, just a 10-minute drive from the Ancient Town, promises seafood lunches, sandy stretches and cool waves. Bring your books, beach blankets, and bikinis; or board a boat to the pristine shores of the Cham Islands."
+        },
+        {
+          "name": "Marvel at My Son",
+          "content": "My Son Sanctuary is a UNESCO Cultural Heritage Site 40 kilometres from Hoi An. Tucked into a valley near a shaded stream, these temples were built by the Cham people. The surviving structures date from the 7th to the 13th century."
+        }
+      ]
+    },
+    "weather": {
+      "title": "Hoi An Weather",
+      "content": "Expect rainy days and several storms from October to January. If you arrive at the start of the year, bring a few extra layers to stay warm. March to May are the best months to visit, but you can also see Hoi An from June to August if you don’t mind the heat."
+    },
+    "transport": {
+      "title": "Hoi An Transport",
+      "content": "The international airport in Da Nang is a 50-minute drive from the Ancient Town. There are domestic flights from Vietnam’s major cities to Da Nang, as well as direct flights from regional hubs. Hoi An can also be reached by bus or shuttle vans from nearby destinations, such as Nha Trang, Da Nang or Hue. Walking and cycling is ideal for sightseeing in the Ancient Town and the countryside. Taxis and ride-hailing apps can also take you around. Ask your hotel about a private car for trips further afield."
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "10-essential-things-to-do-in-hoi-an",
+          "title": "10 essential things to do in Hoi An",
+          "image": "/travel/assets/thingshoian.jpg"
+        },
+        {
+          "id": "the-shopaholic-guide-to-hoi-an",
+          "title": "The shopaholic's guide to Hoi An",
+          "image": "/travel/assets/aholic.jpg"
+        },
+        {
+          "id": "a-girl-guide-to-a-weekend-in-hoi-an",
+          "title": "A girls' guide to a weekend in Hoi An",
+          "image": "/travel/assets/girlguide.jpeg"
+        }
+      ]
+    }
+  },
+  "hue": {
+    "destination": "Hue",
+    "content": "Hue is a city chock-full of stories. The Kings of the Nguyen Dynasty built their feudal capital along Hue’s fertile riverbanks and atop its forested hills, but their imperial legacy is just one of many reasons to visit. Hue’s refined cuisine is the stuff of legend, and its leafy streets are lined with mossy pagodas, art déco mansions, and eye-popping markets. Through the whole scene flows the Perfume River, setting a languid pace the rest of the city is happy to follow.",
+    "image": "/travel/assets/hue.jpg",
+    "topthings": {
+      "title": "Top things to do in Hue",
+      "details": [
+        {
+          "name": "See Imperial Vietnam",
+          "content": "Get acquainted with Vietnam’s last royal dynastic family by exploring what survives of their 143-year reign. Roam the palaces, pavilions and theatres of the Hue Citadel and make time to visit the tombs of emperors Tu Duc, Minh Mang and Khai Dinh."
+        },
+        {
+          "name": "Eat like a king",
+          "content": "You’re never far from a world-class meal in Hue. Nose around the flapping-fresh produce at Dong Ba Market for a teaser, then whet your appetite with Hue’s much-loved snacks, such as Banh Khoai and Banh Beo."
+        },
+        {
+          "name": "Explore the city's Buddhist roots",
+          "content": "Hue’s serene atmosphere is most penetrating in its pagodas and monasteries. See the iconic seven-tiered tower of Thien Mụ Pagoda, then pay a visit to Tu Hieu Monastery, where Thich Nhat Hanh spent his days as a novice monk."
+        },
+        {
+          "name": "Cycle in the rice paddies ",
+          "content": "Hue’s photogenic streets and lush countryside are a wonderland for casual cyclists. The ride to the tile-roofed Thanh Toan Bridge is one of Hue’s most captivating, winding past vegetable farms, footbridges, and flocks of ducks."
+        }
+      ]
+    },
+    "weather": {
+      "title": "Hue Weather",
+      "content": "Hue’s springtime months, from February to the end of April, show the historic capital in its best light. In June and July, prepare for scorching days as heat and humidity rise. The rains come in August and can last through January. Note that Hue often sees some flooding, usually from October to late in the year."
+    },
+    "transport": {
+      "title": "Hue Transport",
+      "content": "Domestic flights from Hanoi and Ho Chi Minh City touchdown in Hue’s Phu Bai Airport, a 30-minute drive from the city. Travellers also can hitch a train to Hue on the Reunification Express line, ride the open bus or hire a private car from the international airport in Da Nang, two hours away. If you want to spend the day exploring the Citadel, riverside and central town just walk or consider hiring a cyclo for the day. For visiting the Imperial Tombs, taxis are available, or you can hop on a bicycle."
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "3-days-in-hue",
+          "title": "3 days in Hue for culture seekers",
+          "image": "/travel/assets/3daysinhue.jpg"
+        },
+        {
+          "id": "how-to-eat-like-a-local-in-hue",
+          "title": "How to eat like a local in Hue",
+          "image": "/travel/assets/eatlikehue.jpg"
+        },
+        {
+          "id": "an-inside-guide-to-the-hue-tombs",
+          "title": "An inside guide to the Hue tombs",
+          "image": "/travel/assets/huetombs.jpg"
+        }
+      ]
+    }
+  },
+  "cantho": {
+    "destination": "Can Tho",
+    "content": "At first glance, Can Tho seems to be a bustling city, with a stream of commerce flowing continuously down the Hau River. But treat yourself to a room on its leafy banks, dine on its sun-ripened fruits and fresh river fish, glide on sampans through its sultry canals, and you’ll soon realise Can Tho’s big city facade is just half the story. The other half? Misty sunrises over the water, lazy afternoons swaying in a hammock, and balmy evenings announced by a chorus of insects. Under the Mekong Delta’s blazing blue skies, Can Tho leaves a vivid impression.",
+    "image": "/travel/assets/cantho.jpg",
+    "topthings": {
+      "title": "Top things to do in Can Tho",
+      "details": [
+        {
+          "name": "Tour the islets",
+          "content": "Whether you go by bicycle or sampan, the islets of Can Tho are where you feel the real pulse of local life. Book a community-based tour to lunch with a local family, explore rice paper villages and fruit orchards, and enjoy a taste of pure Mekong Delta charm."
+        },
+        {
+          "name": "Wake up for the floating markets",
+          "content": "It’s worth the early morning start to see Can Tho’s morning markets heaving with colourful boats and exotic produce. Cai Rang is the most famous in the area, but ask your local host about smaller floating markets where you can engage with the vendors."
+        },
+        {
+          "name": "Taste Hu Tieu on a boat ",
+          "content": "There’s nothing like a breakfast of steaming Hu Tieu noodles served on the water in the early morning. Sticky tapioca noodles, crunchy bean sprouts, and thinly sliced pork blend together in a tasty savoury broth. Slurp it up surrounded by the sounds of the market."
+        },
+        {
+          "name": "Relax by the riverside",
+          "content": "Can Tho offers several enticing places to stay, where discerning travellers can enjoy a tropical escape by the water’s edge. Spoil yourself at the Azerai Can Tho, relax with heartfelt hospitality at Victoria Can Tho, or try a sustainable homestay experience at Mekong Rustic."
+        }
+      ]
+    },
+    "weather": {
+      "title": "Can Tho Weather",
+      "content": "Can Tho has a tropical climate. Summers come with heavy rainfall, and most of the rest of the year is hot and dry. December and January are the coolest months. Rains fall regularly from July to November, and the heat is on from March to June."
+    },
+    "transport": {
+      "title": "Can Tho Transport",
+      "content": "The international airport in Can Tho is just 20 minutes outside of the city, with flights arriving from major hubs in Vietnam. Taking passengers on the four-hour journey from Ho Chi Minh City stop at the bus terminal four kilometres outside the town. It’s also possible to reach Can Tho via the Hau River, on a cruise from Ho Chi Minh City or Cambodia. Once in town, local taxis are readily available. Cycling is also an option on the islets and roads leading away from the city. Local ferries run regularly between the mainland and islets."
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "5-unique-towns-in-the-mekong-delta",
+          "title": "5 unique towns in the Mekong Delta",
+          "image": "/travel/assets/uniquetownmekong.jpg"
+        },
+        {
+          "id": "day-tripping-in-the-mekong-delta",
+          "title": "How to eat like a local in Hue",
+          "image": "/travel/assets/trippingmekong.jpg"
+        },
+        {
+          "id": "5-reasons-you-love-cai-be",
+          "title": "5 reasons you'll love Cai Be",
+          "image": "/travel/assets/caibe.jpg"
+        }
+      ]
+    }
+  },
+  "binhthuan": {
+    "destination": "Binh Thuan",
+    "content": "Binh Thuan has long been something of a best-kept secret for local travelers. But, thanks to its picturesque beauty and diverse topography, more travelers seeking unique experiences in nature are increasingly drawn here. Think gorgeous lakes. Gurgling streams. Dreamy, desert-like spaces. Rocky beaches and windswept seas … Binh Thuan has them all. As it was once part of the Cham principality of Panduranga, Binh Thuan is also archaeologically significant. Want to climb some dunes, learn to surf, go camping or see Cham relics? Give Binh Thuan a go…",
+    "image": "/travel/assets/binhthuan.jpg",
+    "topthings": {
+      "title": "Top things to do in Binh Thuan",
+      "details": [
+        {
+          "name": "Admire spiritual architecture",
+          "content": "Make a mini-pilgrimage to spiritual sites from the past and present. Northeast of Phan Thiet city, you’ll find the 1200-year-old Poshanu Cham Tower temples. Built in the Hoa Lai architectural style during the reign of the Champa Kingdom, these mysterious towers are national monuments. Two Buddhist temples atop Ta Cu Mountain are south of the city: Linh Son Truong Tho and Long Doan pagoda. There you’ll find the biggest reclining Buddha statue in Vietnam. "
+        },
+        {
+          "name": "Head to the hills",
+          "content": "Binh Thuan has some hilly and mountainous terrain for adventure-seekers or those wanting cooler, forest-like spaces. Mountain climbers, bikers, or hikers can head to Ta Cu Mountain. Or pack a picnic and rest beside Suoi Hong, the sparkling ‘fairy stream’ that runs between white stalactite hills. "
+        },
+        {
+          "name": "Explore the islands",
+          "content": "Go island-hopping to explore some of the province’s most pristine beaches and wild, deserted coastal landscapes. Check out Cu Lao Cau or Phu Quy island, among others."
+        },
+        {
+          "name": "Surf sand dunes",
+          "content": "There are many stretching dunes, sand, and beaches which attract tourists to come, play and snap away. Apart from the stunning photo ops, thrill-seekers can try 4x4 dune bashing, sandboarding, or sand sliding. Head to Bau Trang or Mui Ne to get in on the action. "
+        }
+      ]
+    },
+    "weather": {
+      "title": "Binh Thuan Weather",
+      "content": "While Binh Thuan has a tropical monsoon climate, it’s considerably arider than the rest of the country. During the rainy season (from May to October), it doesn’t receive as much rainfall as other parts of Vietnam. The weather is generally sunny and windy – so many wind-energy projects have been implemented here. The best time to plan your trip is from November to April."
+    },
+    "transport": {
+      "title": "Binh Thuan Transport",
+      "content": "There’s no airport in the province as yet. So it’s best to fly to either Ho Chi Minh City or Nha Trang, from there, get a bus or train to Phan Thiet. The main North-South Railway runs through Muong Man Railway Station, just outside Phan Thiet. Use Grab or a taxi to go to the city. For sightseeing, take a motorbike, taxi or bus."
+    },
+    "also": {
+      "title": "You may also like",
+      "details": [
+        {
+          "id": "wind-sand-sea",
+          "title": "Wind, sand and sea: Mui Ne's must-do list",
+          "image": "/travel/assets/windsandsea.jpg"
+        },
+        {
+          "id": "vietnam-best-outdoor-activities",
+          "title": "Vietnam's best outdoor activities",
+          "image": "/travel/assets/outdoor.jpg"
+        },
+        {
+          "id": "7-places-in-vietnam-for-families",
+          "title": "7 places in Vietnam for families",
+          "image": "/travel/assets/placeforfamilies.jpg"
         }
       ]
     }

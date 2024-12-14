@@ -48,7 +48,10 @@ const Search3 = () => {
                 className="w-auto h-[30%] object-cover mb-4"
               />
 
-              <p className="text-xl text-gray-600 text-justify my-2">
+              <p
+                className="text-xl text-gray-600 text-justify my-2"
+                style={{ whiteSpace: "pre-line" }}
+              >
                 {detail.content}
               </p>
               {detail.tip ? (
@@ -89,6 +92,7 @@ const Search3 = () => {
           <section className="mt-4 grid gap-4 sm:grid-cols-3 sm:grid-rows-auto">
             {data.also.details.map((detail, index) => (
               <Selection
+                key={index}
                 figure={detail.image}
                 caption={detail.title}
                 id={detail.id}
