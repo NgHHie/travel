@@ -3,10 +3,47 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Preload the font to ensure it's loaded as soon as possible -->
+    <link
+      rel="preload"
+      href="https://fonts.googleapis.com/css2?family=Playwrite+MX+Guides&display=swap"
+      as="style"
+    />
+
+    <!-- Load the font only -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playwrite+MX+Guides&display=swap"
+      rel="stylesheet"
+    />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Beaches.</title>
-    <script type="module" crossorigin src="/travel/assets/index.79bc63cb.js"></script>
-    <link rel="stylesheet" href="/travel/assets/index.6b7d8f0d.css">
+    <title>VietnamTravel.</title>
+    <style>
+      /* Ẩn thanh cuộn trong mọi trình duyệt */
+      html,
+      body {
+        height: 100%; /* Đảm bảo chiều cao của body phủ toàn bộ viewport */
+        margin: 0; /* Loại bỏ margin mặc định */
+        overflow: hidden; /* Ẩn thanh cuộn */
+      }
+
+      #root {
+        height: 100%; /* Đảm bảo #root phủ toàn bộ chiều cao của body */
+        overflow: auto; /* Cho phép nội dung cuộn khi cần thiết */
+      }
+
+      /* Ẩn thanh cuộn trong các trình duyệt khác */
+      #root::-webkit-scrollbar {
+        display: none; /* Ẩn thanh cuộn trong Chrome/Safari */
+      }
+      #root {
+        scrollbar-width: none; /* Ẩn thanh cuộn trong Firefox */
+      }
+    </style>
+    <script type="module" crossorigin src="/assets/index.652273d8.js"></script>
+    <link rel="stylesheet" href="/assets/index.7e6f0cf2.css">
   </head>
   <body>
     <div id="root"></div>
