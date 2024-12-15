@@ -10,12 +10,7 @@ const Footer = () => {
           <li className="p-0 px-2">
             <Link to="/home">Home</Link>
           </li>
-          <li className="p-0 px-2">
-            <Link to="/destination">Destinations</Link>
-          </li>
-          <li className="p-0 px-2">
-            <Link to="/tips">Tips</Link>
-          </li>
+
           <li className="p-0 px-2">
             <Link to="/about">About us</Link>
           </li>

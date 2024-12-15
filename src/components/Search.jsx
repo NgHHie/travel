@@ -8,7 +8,7 @@ const Search = () => {
       className="container" // Thêm grid-cols-1 cho màn hình nhỏ
     >
       <div
-        className="flex flex-col px-4 my-16 grid gap-8 mx-auto md:grid-cols-3 grid-cols-1"
+        className="flex flex-col px-4 my-16 grid gap-8 mx-auto md:grid-cols-3 grid-cols-1 group"
         style={{
           backgroundImage: `url(${cauvang})`,
           backgroundSize: "cover",
@@ -24,7 +24,13 @@ const Search = () => {
       >
         {/* Div chứa ảnh */}
         <div className="md:col-span-1 p-8 mx-auto">
-          <img src={vietnammap} alt="vietnammap" height="400px" width="400px" />
+          <img
+            src={vietnammap}
+            alt="vietnammap"
+            height="400px"
+            width="400px"
+            className=" transition-transform duration-300 ease-in-out hover:scale-110 max-w-full max-h-full"
+          />
         </div>
 
         {/* Div chứa văn bản */}

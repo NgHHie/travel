@@ -14,7 +14,7 @@ const Hero = () => {
     "Da Nang",
     "Hoi An",
     "Hue",
-    "Ho Chi Minh City",
+    "HCMC",
     "Can Tho",
     "Binh Thuan",
     "Phu Quoc Island",
@@ -38,7 +38,7 @@ const Hero = () => {
         <h3 className="text-white mb-4">Where do you want to explore?</h3>
         <form
           action=""
-          className="flex flex-col border p-3 rounded-md text-black bg-gray-100/90 max-w-[700px] w-[80%] mx-auto"
+          className="flex flex-col border p-3 rounded-md text-gray-500 bg-gray-100/90 max-w-[500px] w-[50%] mx-auto"
         >
           {/* Input */}
           <div className="flex">
@@ -65,7 +65,9 @@ const Hero = () => {
                 viewBox="0 0 24 24"
                 strokeWidth={1.5}
                 stroke="currentColor"
-                className="w-6 h-6"
+                className={`w-6 h-6 transform transition-transform duration-300 ${
+                  showDropdown ? "rotate-180" : ""
+                }`}
               >
                 <path
                   strokeLinecap="round"

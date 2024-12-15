@@ -21,40 +21,40 @@ const Destinations = () => {
         interactive tours.
       </p>
 
-      <div className="grid grid-cols-2 md:grid-cols-5 gap-4">
-        <div className="col-span-2 md:col-span-3 md:row-span-2">
+      <div className="group grid grid-cols-2 md:grid-cols-5 gap-4">
+        <div className="col-span-2 md:col-span-3 md:row-span-2 overflow-hidden">
           <img
             src={vietnam3}
             alt="vietnam1"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover transition-transform duration-300 ease-in-out hover:scale-110 max-w-full max-h-full"
           />
         </div>
-        <div>
+        <div className="overflow-hidden">
           <img
             src={vietnam4}
             alt="vietnam4"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover transition-transform duration-300 ease-in-out hover:scale-110 max-w-full max-h-full"
           />
         </div>
-        <div>
+        <div className="overflow-hidden">
           <img
             src={vietnam2}
             alt="vietnam2"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover transition-transform duration-300 ease-in-out hover:scale-110 max-w-full max-h-full"
           />
         </div>
-        <div>
+        <div className="overflow-hidden">
           <img
             src={vietnam1}
             alt="vietnam1"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover transition-transform duration-300 ease-in-out hover:scale-110 max-w-full max-h-full"
           />
         </div>
-        <div>
+        <div className="overflow-hidden">
           <img
             src={vietnam5}
             alt="vietnam5"
-            className="w-full h-full object-cover"
+            className="w-full h-full object-cover transition-transform duration-300 ease-in-out hover:scale-110 max-w-full max-h-full"
           />
         </div>
       </div>
