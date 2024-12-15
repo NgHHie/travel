@@ -19,7 +19,7 @@ const About = () => {
         <div className="flex flex-wrap justify-center my-4 gap-8 grid md:grid-cols-2 grid-cols-1">
           <div className="flex flex-col items-center relative">
             <img
-              src="/travel/assets/hanoi.jpg"
+              src="/travel/assets/avt775.jpeg"
               className="w-56 h-56 object-cover rounded-full border-4 border-gray-300"
               alt="Member 1"
             />
@@ -28,7 +28,7 @@ const About = () => {
           </div>
           <div className="flex flex-col items-center relative">
             <img
-              src="/travel/assets/hcmc.jpg"
+              src="/travel/assets/avt808.jpeg"
               className="w-56 h-56 object-cover rounded-full border-4 border-gray-300"
               alt="Member 2"
             />
