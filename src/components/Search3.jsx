@@ -45,7 +45,7 @@ const Search3 = () => {
               </h3>
               <img
                 src={detail ? detail.image : null}
-                className="w-auto h-[30%] object-cover mb-4"
+                className="w-full h-full object-cover mb-4"
               />
 
               <p
